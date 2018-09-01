@@ -1,0 +1,131 @@
+[sujoung@sujoung OOP_Game]$ python game.py house.txt
+
+WELCOME TO OUR MYSTERIOUS HOUSE GAME!
+If you want to see commands, type 'commands'
+
+Here are your options:
+
+1. START
+2. EXIT
+
+--> 1
+You are in the hall.
+There are doors towards N. E.
+There are no items in this room.
+--> go E
+The door is closed. Please open the door.
+--> open E
+You opened the door to the next room.
+--> go E
+You just passed the door.
+You are in the livingroom.
+There is a door towards W.
+In this room, there are following items: 
+note.
+--> take nott
+There is no such item.
+--> take note
+You took the item : note.
+--> read note
+"oh no! there was a missing duck in my dream again."
+--> release note
+You released the item : note.
+--> go W
+You just passed the door.
+You are in the hall.
+There are doors towards N. E.
+There are no items in this room.
+--> go N
+You just passed the door.
+You are in the bedroom.
+There are doors towards S. E. N.
+In this room, there are following items: 
+sleeping bag.
+--> examine sleeping bag
+This item is movable and usable.
+You can take, release item or sleep.
+--> sleep slepping bag
+There is no such item.
+--> sleep sleeping bag
+You slept very well, Your tiredness is gone
+...
+You acquired the true sight!
+--> show
+You are in the bedroom.
+There are doors towards S. E. N.
+In this room, there are following items: 
+sleeping bag,key.
+--> take key
+You took the item : key.
+--> go E
+The door is locked. You need a key.
+If you have a key, please unlock it.
+--> unlock E
+You unlocked the door.
+Please go through the door
+--> go E
+You just passed the door.
+You are in the bathroom.
+There is a door towards W.
+In this room, there are following items: 
+bath tub.
+--> examine bath tub
+This item is stationary.
+You cannot take the item.
+--> go W
+You just passed the door.
+You are in the bedroom.
+There are doors towards S. E. N.
+In this room, there are following items: 
+sleeping bag.
+--> go N
+You just passed the door.
+You are in the library.
+There are doors towards S. E.
+In this room, there are following items: 
+book.
+--> read book
+"title: bathroom is important place for a duck."
+--> go E
+The door is locked. You need a key.
+If you have a key, please unlock it.
+--> unlock door
+This is not a direction.
+--> unlock E
+You unlocked the door.
+Please go through the door
+--> jump
+This is not a valid command, Try again!
+--> go E
+You just passed the door.
+You are in the kitchen.
+There is a door towards W.
+In this room, there are following items: 
+rubber duck.
+--> take rubber duck
+You took the item : rubber duck.
+--> go W
+You just passed the door.
+You are in the library.
+There are doors towards S. E.
+In this room, there are following items: 
+book.
+--> go S
+You just passed the door.
+You are in the bedroom.
+There are doors towards S. E. N.
+In this room, there are following items: 
+sleeping bag.
+--> go E
+You just passed the door.
+You are in the bathroom.
+There is a door towards W.
+In this room, there are following items: 
+bath tub.
+--> release rubber duck
+You released the item : rubber duck.
+Wait...!
+...
+Mr. Rubber duck: Thank you. I can finally swim in the bath tub
+...
+GAME END

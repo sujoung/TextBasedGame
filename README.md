@@ -7,4 +7,10 @@
 ```
 python3 game.py house.txt
 ```
+Other .py programs are to be imported in the main file.
 
+## If you want to see the example of the game run
+
+```
+cat example_game.txt
+```
